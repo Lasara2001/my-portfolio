@@ -1,5 +1,5 @@
 import About from './About';
-import SkillsSection from './SkillsSection'; // Fixed import name
+import Skillssection from './Skillssection'; // Fixed import name
 import Projects from './Projects';
 import Contact from './Contact';
 
