@@ -39,7 +39,7 @@ const Home = () => {
         </div>
       </section>
       <About />
-      <SkillsSection /> {/* Fixed component name */}
+      <Skillssection /> {/* Fixed component name */}
       <Projects />
       <Contact />
     </>
