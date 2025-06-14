@@ -2,7 +2,7 @@ import { useState } from 'react';
 import { motion } from 'framer-motion';
 import { FaPython, FaJava, FaReact, FaJs, FaHtml5, FaCss3Alt, FaNodeJs, FaGitAlt } from "react-icons/fa";
 
-export default function SkillsSection() {
+export default function Skillssection() {
   const [activeTab, setActiveTab] = useState('Skills');
 
   const content = {
